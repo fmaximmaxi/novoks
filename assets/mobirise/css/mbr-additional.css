@@ -2017,7 +2017,7 @@ body {
 .cid-qJKyXmizmx {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-qJKyXmizmx .list-group-item {
   padding: .75rem 3.25rem;
@@ -2060,10 +2060,12 @@ body {
 .cid-qJKyXmizmx .price-figure {
   font-weight: 700;
   color: #232323;
+  text-align: left;
 }
 .cid-qJKyXmizmx .price-value {
   font-weight: 700;
   vertical-align: top;
+  text-align: left;
 }
 @media (max-width: 550px) {
   .cid-qJKyXmizmx .price-figure {
